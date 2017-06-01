@@ -1,17 +1,5 @@
 # Flex 布局
-<!DOCTYPE html>
-<html>
-<head>
-    <title></title>
-</head>
-<body>
-<div class="box" style="background: #eee;height: 200px;display: flex;">
-    <div class="item" style="width: 100px;height: 100px;background: #e8a324;">1</div>   
-    <div class="item" style="width: 100px;height: 100px;background: #e8a324;">2</div>   
-    <div class="item" style="width: 100px;height: 100px;background: #e8a324;">3</div>   
-</div>
-</body>
-</html>
+
 <div class="box" style="background: #eee;height: 200px;display: flex;">
     <div class="item" style="width: 100px;height: 100px;background: #e8a324;">1</div>   
     <div class="item" style="width: 100px;height: 100px;background: #e8a324;">2</div>   
